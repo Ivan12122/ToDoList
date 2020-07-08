@@ -1,0 +1,19 @@
+.EditEfect{
+    display: flex;
+}
+
+.edit{
+    width: 60%;
+    height: 38px;
+    
+    background: #FFFFFF;
+    border: 1px solid #EFEFEF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin: 0px;
+}
+
+.btnRename{
+    width: 30%;
+    height: 38px;
+}

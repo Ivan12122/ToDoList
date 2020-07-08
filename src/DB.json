@@ -1,0 +1,94 @@
+{
+  "lists": [
+    {
+      "name": "Новое дело",
+      "colorId": 6,
+      "id": 7
+    }
+  ],
+  "tasks": [
+    {
+      "text": "sdfewdew3",
+      "compleated": true,
+      "id": 10
+    },
+    {
+      "text": "sdfdsdcxcx",
+      "compleated": true,
+      "id": 11
+    },
+    {
+      "text": "Как то стрёмно улетает, может сделать задержку",
+      "compleated": false,
+      "id": 15
+    },
+    {
+      "text": "Новая Задача3232",
+      "compleated": true,
+      "id": 24
+    },
+    {
+      "text": "Новая Задача33323",
+      "compleated": false,
+      "id": 26
+    },
+    {
+      "text": "Новая Задача32увуы",
+      "compleated": true,
+      "id": 29
+    },
+    {
+      "text": "Новая Задача",
+      "compleated": true,
+      "id": 31
+    },
+    {
+      "listId": 7,
+      "text": "Новая Задача",
+      "compleated": false,
+      "id": 32
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "gren"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blye"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pinc"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lightGreen"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "fiolet"
+    },
+    {
+      "id": 7,
+      "hex": "#09011A",
+      "name": "dark"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "orange"
+    }
+  ]
+}

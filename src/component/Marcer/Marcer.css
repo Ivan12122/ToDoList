@@ -1,0 +1,20 @@
+.small {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.big {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
+.big:hover {
+  border: solid 2px;
+}
+
+#isActiv{
+  border: solid 2px;
+}

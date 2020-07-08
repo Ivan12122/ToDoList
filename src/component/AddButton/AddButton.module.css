@@ -1,0 +1,72 @@
+.close {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  z-index: 1;
+}
+
+.addButton {
+  margin-top: 45px;
+  position: relative;
+}
+
+.addButton ul:first-child {
+  margin-bottom: 0px;
+}
+
+.addPanel {
+  width: 235px;
+  height: 150px;
+  border-radius: 10px;
+  box-shadow: 1px 2px 20px darkgrey;
+  margin-left: 28px;
+  background: #ffffff;
+  position: inherit;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 99999;
+}
+
+input {
+  box-sizing: border-box;
+  margin: 18px;
+  position: relative;
+  width: 200px;
+  height: 32px;
+  padding: 8px 12px;
+
+  background: #ffffff;
+  border: 1px solid #efefef;
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input:hover {
+  border-color: rgb(45, 141, 165);
+}
+
+.marcer {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}
+
+.btnAdd {
+  width: 200px;
+  height: 37px;
+  padding: 9px 0 11px 0;
+  box-sizing: border-box;
+
+  margin-top: 10px;
+  background: #4dd599;
+  border-radius: 6px;
+  color: #ffffff;
+}
+
+.btnAdd:hover {
+  background: #54c996;
+}

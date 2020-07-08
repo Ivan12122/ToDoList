@@ -1,0 +1,32 @@
+.App {
+  width: 750px;
+  height: 530px;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  display: flex;
+  box-shadow: 1px 2px 20px darkgrey;
+  border-radius: 10px;
+}
+
+.sidebar {
+  box-sizing: border-box;
+  height: 100%;
+  width: 200px;
+  background: #e5e5e5;
+  border-right: solid darkgrey 1px;
+  padding-top: 56px;
+  border-radius: 10px 0 0 10px;
+}
+
+.sidebar ul:first-child {
+  margin-bottom: 38px;
+}
+
+.content {
+  height: 100%;
+  width: 550px;
+  position: relative;
+  padding: 56px 55px;
+}
